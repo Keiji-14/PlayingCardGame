@@ -1,0 +1,2 @@
+【Android端末】
+Android端末で動作するには、Android StudioのAPKファイルを実機で実行をしてください。
